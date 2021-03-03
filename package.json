@@ -13,6 +13,6 @@
     "linkedin-jobs-scraper": "^2.2.1",
     "morgan": "~1.9.1",
     "node-fetch": "^2.6.0",
-    "pug": "2.0.0-beta11"
+    "pug": "3.0.1"
   }
 }
